@@ -5,3 +5,5 @@ build instructions come here:
 Upper frame assembly
 <img width="2554" height="1362" alt="Upper frame 1" src="https://github.com/user-attachments/assets/490e57c0-1b0a-4ef2-aa2d-dbe46fbe2d24" />
 <img width="2554" height="1362" alt="upperframe 7" src="https://github.com/user-attachments/assets/8e3df6ab-9178-462e-ab04-d1d602c753be" />
+<img width="2554" height="1362" alt="upper frame 8" src="https://github.com/user-attachments/assets/7cc1866b-b1f1-4ee4-a216-bb92f9728981" />
+<img width="2554" height="1362" alt="upper frame 8" src="https://github.com/user-attachments/assets/7cc1866b-b1f1-4ee4-a216-bb92f9728981" />

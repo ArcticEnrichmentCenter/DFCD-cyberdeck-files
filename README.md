@@ -2,7 +2,7 @@ This is the DesignatedFreeCadDevice, a moduar cyberdeck primarily designed to ru
 
 ![DSCF1779](https://github.com/user-attachments/assets/cbbf986b-326c-486f-9e77-3bc8181b262e)
 **what does it do?**
-It runs freecad of course :) i developed it mostly to be able to open and modify CAD files while in the workshop, but i also use it to browse the web and genral computing. it has a keyboard hidden under the sliden screen, as i rarley use a keyboard, but i did want to have a full depth mechanical keyboard whenever i actually use one. The machine is modular so that one can build modules that fits your personal needs.I hope people feel inspired to make their own modules.
+It runs freecad of course :) i developed it mostly to be able to open and modify CAD files while in the workshop, but i also use it to browse the web and genral computing. It has a keyboard hidden under the sliden screen, as i rarley use a keyboard, but i did want to have a full depth mechanical keyboard whenever i actually use one. The machine is modular so that one can build modules that fits your personal needs. I hope people migth feel inspired to make their own modules.
 ![DSCF1786](https://github.com/user-attachments/assets/df5e4cd6-41c9-4f8a-bc78-de39ea63718a)
 
 **How is the modules powered?**
